@@ -1,0 +1,38 @@
+{
+  "name": "thunder-theme",
+  "displayName": "Thunder Theme",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "jhonx",
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Landscape",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Landscape-color-theme.json"
+      },
+      {
+        "label": "Landscape flat",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Landscape-color-theme-flat.json"
+      },
+      {
+        "label": "Landscape darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Landscape-color-darker.json"
+      }
+    ]
+  },
+  "icon": "icons/mi_logo2.png",
+  "repository": {
+    "url": "https://github.com/TheJhonX/Thunder_Theme.git",
+    "type": "git"
+  },
+  "license": "LICENSE.txt"
+}
