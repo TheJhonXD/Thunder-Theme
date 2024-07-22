@@ -18,11 +18,6 @@
         "path": "./themes/Landscape-color-theme.json"
       },
       {
-        "label": "Landscape flat",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Landscape-color-theme-flat.json"
-      },
-      {
         "label": "Landscape darker",
         "uiTheme": "vs-dark",
         "path": "./themes/Landscape-color-darker.json"
