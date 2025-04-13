@@ -1,7 +1,7 @@
 {
-  "name": "Landscape flat",
+  "name": "Thunder flat",
   "type": "dark",
-  "semanticClass": "landscape-flat",
+  "semanticClass": "thunder-flat",
   "colors": {
     "foreground": "#787c99",
     "descriptionForeground": "#515670",

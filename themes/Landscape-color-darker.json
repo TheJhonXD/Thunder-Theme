@@ -1,7 +1,7 @@
 {
-  "name": "Landscape darker",
+  "name": "Thunder darker",
   "type": "dark",
-  "semanticClass": "landscape-darker",
+  "semanticClass": "thunder-darker",
   "colors": {
     "activityBar.activeBackground": "#151a1d", // #282c34
     "activityBar.activeBorder": "#6255df", // #282c34
@@ -450,7 +450,8 @@
     "namespace": "#E06C75",
     "variable": {
       "fontStyle": "",
-      "foreground": "#B0B7C3"
+      // "foreground": "B0B7C3"
+      "foreground": "#93b0c7"
     },
     "variable.decorator": {
       "fontStyle": "",
@@ -1399,7 +1400,7 @@
       "scope": "meta.var.expr,storage.type.function,keyword.function,keyword.var,keyword.const,keyword.channel,keyword.struct,keyword.other.struct,keyword.map,keyword.reserved,storage.type.class,storage.type.php,storage.type.interface,storage.type.object,storage.type.primitive.dart,keyword.declaration, storage.type.enum,storage.type.type, storage.type.const, storage.modifier.specifier",
       "settings": {
         "fontStyle": "",
-        "foreground": "#A78CFA"
+        "foreground": "#C678DD"
       }
     },
     {

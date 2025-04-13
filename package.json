@@ -2,7 +2,7 @@
   "name": "thunder-theme",
   "displayName": "Thunder Theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "jhonx",
   "engines": {
     "vscode": "^1.78.0"
@@ -13,12 +13,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Landscape",
+        "label": "Thunder",
         "uiTheme": "vs-dark",
         "path": "./themes/Landscape-color-theme.json"
       },
       {
-        "label": "Landscape darker",
+        "label": "Thunder darker",
         "uiTheme": "vs-dark",
         "path": "./themes/Landscape-color-darker.json"
       }
